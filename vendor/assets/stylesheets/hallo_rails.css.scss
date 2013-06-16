@@ -54,11 +54,11 @@
 
 .editable:hover:before,
 .form_editable:hover:before{
-  content: "Zum Bearbeiten klicken";   /* "Click to edit" Modify to your language */
+  content: "Click to edit";   /* "Click to edit" Modify to your language */
 }
 
 .hallo_updating:before{
-  content: "Speichern...";             /* "Saving..." Modify to your language */
+  content: "Saving...";             /* "Saving..." Modify to your language */
 }
 
 .editable.inEditMode:hover:before,
